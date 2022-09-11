@@ -1,5 +1,5 @@
 # GenMDShell_BackPannel
-Laser Cut Files for Genesis /  MegaDrive Back Pannel
+Laser Cut Files for RGR Genesis /  MegaDrive transparent shell Back Pannel
 
 the thickness of acrylic pannel should be 1.0mm ~ 1.5mm.
 
